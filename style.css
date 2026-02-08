@@ -31,10 +31,6 @@ body {
     font-family: 'Georgia', serif; /* Romantic serif font */
     overflow-x: hidden;
     line-height: 1.6;
-    .love-img {
-  width: 200px;
-  border-radius: 20px;
-  margin-bottom: 20px;
 }
 
 /* Headings */
@@ -485,6 +481,4 @@ footer {
         transform: translateY(-100vh) scale(0.5) rotate(-45deg);
         opacity: 0;
     }
-    
-
 }
