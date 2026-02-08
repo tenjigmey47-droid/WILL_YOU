@@ -481,4 +481,10 @@ footer {
         transform: translateY(-100vh) scale(0.5) rotate(-45deg);
         opacity: 0;
     }
+    
+.love-img {
+  width: 200px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
 }
